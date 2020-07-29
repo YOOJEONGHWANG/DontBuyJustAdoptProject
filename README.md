@@ -1,8 +1,8 @@
-# DontBuyJustAdoptProject
-유기동물 입양률 예측모델 using Machine learning & Deep learning
-1. 개요
-1-1. 분석배경
-분석하게 된 사회적 배경 및 가설
+# DontBuyJustAdoptProject\n
+유기동물 입양률 예측모델 using Machine learning & Deep learning\n
+1. 개요\n
+1-1. 분석배경\n
+분석하게 된 사회적 배경 및 가설\n
 1-2. 진행방향
 
 2. 구현과정
